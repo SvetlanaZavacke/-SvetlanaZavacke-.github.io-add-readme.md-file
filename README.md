@@ -1,4 +1,4 @@
-# -SvetlanaZavacke-.github.io-add-readme.md-file
+
 # Sveiki! 👋 Aš esu Svetlana – Duomenų Analitikė su Aistra Skaičiams  
 
 Labai smagu, kad užsukote į mano GitHub profilį! Esu Svetlana, naujokė duomenų analitikos srityje, bet nebijau iššūkių ir nuolat tobulėju. Man patinka ieškoti įžvalgų duomenyse ir kurti vizualizacijas, kurios padeda priimti sprendimus.
